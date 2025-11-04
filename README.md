@@ -4,7 +4,7 @@
 ![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Stable-success.svg)
-![Contributions](https://img.shields.io/badge/Contributions-Closed-red.svg)
+![Contributions](https://img.shields.io/badge/Contributions-Open-brightgreen.svg)
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-ff69b4.svg)
 
 
