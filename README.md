@@ -1,5 +1,13 @@
 # 🤖 AutoML Final Project
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)
+![Python](https://img.shields.io/badge/Python-3.10%2B-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Stable-success.svg)
+![Contributions](https://img.shields.io/badge/Contributions-Closed-red.svg)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-ff69b4.svg)
+
+
 This repository contains the **final AutoML project**, which automates the process of training, tuning, and evaluating machine learning models. It provides both a backend AutoML engine and an optional frontend interface for ease of use.
 
 ---
