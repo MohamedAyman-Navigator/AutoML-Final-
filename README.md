@@ -99,7 +99,7 @@ Frontend (optional) ─► Backend API ─► AutoML Engine ─► Model / Repor
 AutoML-Final-/
 │
 ├── automl/                # Core AutoML logic
-├── api/                   # Backend API
+├── automl_api/            # Backend API
 ├── frontend/              # Web UI (if included)
 ├── models/                # Saved ML models
 ├── requirements.txt
