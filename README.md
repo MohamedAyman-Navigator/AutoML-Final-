@@ -137,7 +137,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Author:** Mohamed Ayman  
 **GitHub:** [MohamedAyman-Navigator](https://github.com/MohamedAyman-Navigator)  
-**Email:** (optional – add if you want)
+**Email:** (sharafmedo101@gmail.com)
 
 ---
 
