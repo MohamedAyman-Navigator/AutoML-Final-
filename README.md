@@ -140,5 +140,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 **Email:** (sharafmedo101@gmail.com)
 
 ---
-
-> *“Automate the boring ML — focus on insights, not pipelines.”*
